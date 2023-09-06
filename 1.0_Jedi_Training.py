@@ -49,5 +49,5 @@ yoda.pendown()
 yoda.pencolor('#00FF00')
 
 
-yoda.write('Sign Your Name Here',font=("Arial", 16, "normal")) # signs your name to your art
+yoda.write('AJ Reisinger',font=("Arial", 16, "normal")) # signs your name to your art
 turtle.exitonclick() #Keeps pycharm window open so we can see the drawing
